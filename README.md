@@ -20,3 +20,4 @@ https://ai.google.dev/api
 
 https://deepmind.google/
 
+https://deepmind.google/technologies/gemini/#introduction
